@@ -2,7 +2,7 @@
 This repository is for the assignment '8-2 Journal: Portfolio Item' in the course CS370. This is a way to reflect on and showcase the work completed in this course.
 
 ## Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+For this project, I designed an AI agent capable of playing and beating the 'treasure hunt' game. The AI agent can navigate the game world, which includes various pathways and obstacles, with the objective of finding the treasure before the human player. To achieve this, I utilized a Q-learning algorithm to train the AI to play the game efficiently. The initial code provided for this project included the 'GameExperience.py' and 'TreasureMaze.py' files. Additionally, I received instructions in a Jupyter Notebook file to guide me through the expectations for the final project of this course.
+
 ## Connect your learning from throughout this course to the larger field of computer science:
-1. What do computer scientists do and why does it matter?
-2. How do I approach a problem as a computer scientist?
-3. What are my ethical responsibilities to the end user and the organization?
+As a soon-to-graduate computer science student, I understand that computer scientists are problem solvers who design, develop, and optimize software, systems, and algorithms. Our work matters because it drives innovation in various industries, from healthcare to entertainment, and it empowers society with technology that simplifies tasks, enhances communication, and advances research. When approaching a problem, I'll apply systematic problem-solving techniques, breaking down complex issues into manageable components, designing efficient algorithms, and using data structures to organize information effectively. Ethically, I'm responsible for ensuring user data privacy, security, and accessibility, and I must consider the potential social and environmental impacts of technology. It's vital to balance innovation with ethical considerations, fostering trust and responsible technology development.
